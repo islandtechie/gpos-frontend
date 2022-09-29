@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpos-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/gpos-frontend/static/js/main.822530c6.js",
+    "static/js/787.b0e6ef12.chunk.js": "/gpos-frontend/static/js/787.b0e6ef12.chunk.js",
+    "static/media/logo.svg": "/gpos-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gpos-frontend/index.html",
+    "main.073c9b0a.css.map": "/gpos-frontend/static/css/main.073c9b0a.css.map",
+    "main.822530c6.js.map": "/gpos-frontend/static/js/main.822530c6.js.map",
+    "787.b0e6ef12.chunk.js.map": "/gpos-frontend/static/js/787.b0e6ef12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.822530c6.js"
+  ]
+}
